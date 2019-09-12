@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Aditya Pratap Singh Rajawat"
-  avatar           : "profile.jpg"
-  bio              : "Technophile, Petrolhead"
+  avatar           : "profile.jpeg"
+  bio              : "Love the Doing"
   location         : "IIT Kanpur"
   employer         :
   pubmed           :
@@ -94,22 +94,22 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "www.facebook.com/apsr25"
   foursquare       :
   github           : "praditya"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "www.instagram.com/apsr_25"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           : "www.linkedin.com/in/adityapsr"
-  linkedin         :
+  lastfm           :
+  linkedin         : "www.linkedin.com/in/adityapsr"
   orcid            : #"http://orcid.org/yourorcidurl
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
