@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aditya Pratap Singh Rajawat"
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   bio              : "Love the Doing"
   location         : "IIT Kanpur"
   employer         :
@@ -94,15 +94,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "www.facebook.com/apsr25"
+  facebook         : "apsr25"
   foursquare       :
   github           : "praditya"
   google_plus      :
   keybase          :
-  instagram        : "www.instagram.com/apsr_25"
+  instagram        : "apsr_25"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/adityapsr"
+  linkedin         : "adityapsr"
   orcid            : #"http://orcid.org/yourorcidurl
   pinterest        :
   soundcloud       :
