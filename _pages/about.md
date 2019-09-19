@@ -8,7 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year dual degree student in Mechanical Engineering, Indian Institute of Technology, Kanpur.
+I'm a final year dual degree student in Mechanical Engineering at Indian Institute of Technology Kanpur. My research interests are in the field of Robotics, Dynamics, Vibration and Control. I like working on mathematical modeling and simulation, which intrigues me to visualize every new problem as a blend of the concepts of various fields and enjoy the mathematics behind it.
+
+
+<!-- The best part of research is when you just smile to a challenging problem realizing the scope of the problem and the learning through the process. -->
+
+<!-- I'm currently working on "Gait Planning and Optimization for a Biped, using concepts of Geometric Control". -->
+
+<!-- Being an automotive enthusiast, my college life was majorly spent in building various full-scale vehicles, be it a 4WD-AWS Electric vehicle, a Formula Student vehicle or an All-terrain vehicle.   -->
+
+
+
+
+<!--
+I have worked as a Student Research Associate for Development of a 4WD-AWS Electric Vehicle. I worked on mathematical modeling of full car model for suspension design and design of a spaceframe chassis for two passengers. The vehicle is unique in the sense that it involves independent suspension modules for all four wheels which are integrated to a spaceframe chassis, and each module is controlled for steering and drive for maneuvering according to a global objective.
+
+I joined Formula Student team in my freshman year, where I started working in Chassis subsytem. I worked on designing and analysis of a spaceframe chassis for Formula prototype vehicle. In my sophomore year, I worked on manufacturing of the complete vehicle along with lab and field testing of various components, including experimental torsional testing of frame and quasi-static impact testing of non-standard Impact attenautor.   -->
+
+
 
 Updating... WAIT
 
