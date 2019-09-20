@@ -1,7 +1,6 @@
 ---
 title: '4WD-AWS EV'
 collection: projects
-date: 2017-08-1
 permalink: /projects/EV/
 ---
 
