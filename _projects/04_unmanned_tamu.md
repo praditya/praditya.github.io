@@ -10,7 +10,7 @@ This project work was done under the guidance of [Dr. Srikanth Saripalli](https:
 
 
 ![Truck_18](/images/truck_AS.jpg)
-*Truck without trailer used in research (Photo taken from Unmanned Systems Lab Page)*
+*Photo taken from Unmanned Systems Lab Page*
 
 Project Description
 ---
