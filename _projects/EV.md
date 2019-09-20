@@ -1,5 +1,5 @@
 ---
-title: '4WD-AWS EV'
+title: 'ALL WHEEL DRIVE, ALL WHEEL STEER ELECTRIC VEHICLE'
 collection: projects
 permalink: /projects/EV/
 ---

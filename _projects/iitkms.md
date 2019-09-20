@@ -1,5 +1,5 @@
 ---
-title: 'IITK Motorsports'
+title: 'CHASSIS SUBSYTEM, IITK MOTORSPORTS'
 collection: projects
 permalink: /projects/iitkms/
 ---

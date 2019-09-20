@@ -1,10 +1,10 @@
 ---
-title: 'Delamination'
+title: 'CHARACTERIZING DELAMINATION OF GLASS FIBER LAMINATES ON IMPACT LOADING'
 collection: projects
 permalink: /projects/surge/
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+This project work was done under [Dr. P. Venkitanarayanan](http://home.iitk.ac.in/~venkit/) in Experimental Stress Laboratory, IIT Kanpur. It was under Students-Undergraduate Research Graduate Excellence(SURGE) program for Summer'17, IIT Kanpur.
 
 Headings are cool
 ======

@@ -11,8 +11,8 @@ redirect_from:
 ---
 
 <iframe src="/files/Aditya_CV.pdf" width="100%" height="700"></iframe>
----
-### [Download CV from here!](https://drive.google.com/file/d/15ZJQfbW7YlmImAbfwiqda0DE1VxZ3aBo/view)
+
+### [Download Resume from here!](https://drive.google.com/file/d/15ZJQfbW7YlmImAbfwiqda0DE1VxZ3aBo/view)
 ---
 
 <!-- Education
