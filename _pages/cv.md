@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ---
 
-<iframe src="/files/cv_git.pdf" width="100%" height="100%"></iframe>
+<iframe src="/files/cv_git.pdf" width="100%" height="600%"></iframe>
 ---
 
 Education
