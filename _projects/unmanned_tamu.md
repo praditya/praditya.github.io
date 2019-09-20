@@ -10,5 +10,5 @@ This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum
 Headings are cool
 ======
 
-[Project Report](http://exampleurl.co
+[Project Report](http://exampleurl.com)
 ------
