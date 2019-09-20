@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 ---
 
-<iframe src="/files/cv_git.pdf" width="100%" height="600%"></iframe>
+<iframe src="/files/cv_git.pdf" width="100%" height="200"></iframe>
+---
+### [Download CV from here!](https://drive.google.com/file/d/15ZJQfbW7YlmImAbfwiqda0DE1VxZ3aBo/view)
 ---
 
 Education
