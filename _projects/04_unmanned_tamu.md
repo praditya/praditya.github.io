@@ -1,5 +1,5 @@
 ---
-title: 'SYSTEM IDENTIFICATION AND CONTROL DESIGN OF 18 WHEELED TRUCK'
+title: 'System Identification and Control Design of 18 Wheeled Truck'
 collection: projects
 type: "Unmanned Systems Lab"
 permalink: /projects/unmanned_tamu/
@@ -10,6 +10,8 @@ This project work was done under [Dr. Srikanth Saripalli](https://engineering.ta
 
 
 ![Truck_18](/images/truck_AS.jpg)
+*Photo taken from Unmanned Systems Lab Page*
+
 Project Description
 ---
 
