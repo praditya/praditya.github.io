@@ -1,7 +1,6 @@
 ---
 title: 'IITK Motorsports'
 collection: projects
-date: 2015-10-1
 permalink: /projects/iitkms/
 ---
 

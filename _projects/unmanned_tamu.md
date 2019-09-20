@@ -1,7 +1,7 @@
 ---
 title: 'System Identification'
 collection: projects
-date: 2018-07-1
+type: "Unmanned Systems Lab"
 permalink: /projects/unmanned_tamu/
 ---
 

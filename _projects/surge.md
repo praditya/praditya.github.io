@@ -1,7 +1,6 @@
 ---
 title: 'Delamination'
 collection: projects
-date: 2017-07-1
 permalink: /projects/surge/
 ---
 

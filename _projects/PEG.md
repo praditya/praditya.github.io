@@ -1,7 +1,6 @@
 ---
 title: 'PEG'
 collection: projects
-date: 2019-07-1
 permalink: /projects/PEG/
 ---
 
