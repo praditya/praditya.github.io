@@ -5,7 +5,9 @@ permalink: /projects/course_projects/
 ---
 
 This section includes all major projects done in Graduate level courses.
+
 ---
+
 1. Formal Methods in Robotics and Automation
    * **Multi-Robot Motion Planning**
      * Generated the optimal path using [SAT](http://minisat.se) and [SMT](https://rise4fun.com/Z3/tutorial/guide) based solver for multi robot motion planning with constraints
@@ -35,4 +37,5 @@ This section includes all major projects done in Graduate level courses.
    * **Modal Testing and Analysis Software**
      * Developed a GUI-based software for Modal Testing and Analysis using LabVIEW
      * Performed frequency analysis and system identification using DAQ and Signal Processing tools   
+
 ---
