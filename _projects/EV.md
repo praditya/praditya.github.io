@@ -4,7 +4,7 @@ collection: projects
 permalink: /projects/EV/
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+This project was done under [Dr. Shakti S. Gupta](http://home.iitk.ac.in/~ssgupta/) and [Dr. Ramprasad Potluri](http://home.iitk.ac.in/~potluri/) as a Student Research Associate. The project is funded by the Department of Science and Technology (DST), Government of India.
 
 Headings are cool
 ======
