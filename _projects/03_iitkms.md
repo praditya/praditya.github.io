@@ -4,9 +4,10 @@ collection: projects
 permalink: /projects/iitkms/
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+This project was done as a part of SAE Club, IIT Kanpur under Dr. Santanu De, Mechanical Engineering.
 
-Headings are cool
-======
 
+![F18 IITKMS](/images/f18.jpg)
+Project Description
+---
 [Project Report](http://exampleurl.com)
