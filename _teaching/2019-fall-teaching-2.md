@@ -3,7 +3,7 @@ title: "Vibration of Continuous Systems"
 collection: teaching
 type: "Elective Postgraduate Course"
 permalink: /teaching/2019-fall-teaching-2
-venue: "IITK, Mechanical Engineering"
+venue: "IIT Kanpur, Mechanical Engineering"
 date: 2019-08-01
 location: "Kanpur, India"
 ---
