@@ -24,10 +24,11 @@ I have worked as a Visiting Scholar in [Unmanned Systems Lab](https://unmanned.t
 Apart from academics, I'm a photography enthusiast and love playing badminton and table-tennis, actively participating in every sport.
 <!-- I've recently developed an interest in Psychology and a habit of reading novels.   -->
 ---
+
 <!-- If everything seems under control, you're just not going fast enough. - Mario Andretti -->
 The trouble with the rat race is that even if you win, you're still a rat. - Lily Tomlin
 
-
+---
 
 <!-- A data-driven personal website
 ======
