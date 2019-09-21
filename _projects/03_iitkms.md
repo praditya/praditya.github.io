@@ -15,3 +15,7 @@ Project Description
 
 [Project Report](http://exampleurl.com)
 ---
+
+If everything seems under control, you're just not going fast enough. - Mario Andretti
+
+---

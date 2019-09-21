@@ -1,7 +1,7 @@
 ---
 title: "Control Systems Lab"
 collection: teaching
-type: "Compulsory Undergraduate course"
+type: "Compulsory Undergraduate Course"
 permalink: /teaching/2018-fall-teaching-1
 venue: "IIT Kanpur, Electrical Engineering"
 date: 2018-08-01

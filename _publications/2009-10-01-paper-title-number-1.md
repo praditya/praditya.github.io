@@ -13,3 +13,8 @@ Coming Soon... Under Progress!
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title 1." <i>Conference</i>. 1(1).
+---
+
+The road to success is always under construction. -Lily Tomlin
+
+---

@@ -17,3 +17,8 @@ Project Description
 
 [Project Report](http://exampleurl.com)
 ---
+
+
+Study hard what interests you the most in the most undisciplined, irreverent and original manner possible. -Richard Feynman
+
+---

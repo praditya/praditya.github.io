@@ -23,6 +23,9 @@ I have worked as a Visiting Scholar in [Unmanned Systems Lab](https://unmanned.t
 <!-- I joined Formula Student team in my freshman year, where I started working in Chassis subsytem. I worked on designing and analysis of a spaceframe chassis for Formula prototype vehicle. In my sophomore year, I worked on manufacturing of the complete vehicle along with lab and field testing of various components, including experimental torsional testing of frame and quasi-static impact testing of non-standard Impact attenuator.   -->
 Apart from academics, I'm a photography enthusiast and love playing badminton and table-tennis, actively participating in every sport.
 <!-- I've recently developed an interest in Psychology and a habit of reading novels.   -->
+---
+<!-- If everything seems under control, you're just not going fast enough. - Mario Andretti -->
+The trouble with the rat race is that even if you win, you're still a rat. - Lily Tomlin
 
 
 
