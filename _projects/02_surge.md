@@ -14,3 +14,7 @@ Project Description
 
 [Project Report](http://exampleurl.com)
 ---
+
+Chop your own wood and it will warm you twice. - Henry Ford
+
+---

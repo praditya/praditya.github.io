@@ -25,9 +25,10 @@ Apart from academics, I'm a photography enthusiast and love playing badminton an
 <!-- I've recently developed an interest in Psychology and a habit of reading novels.   -->
 ---
 
-<!-- If everything seems under control, you're just not going fast enough. - Mario Andretti -->
-The trouble with the rat race is that even if you win, you're still a rat. - Lily Tomlin
+If everything seems under control, you're just not going fast enough. - Mario Andretti
+<!-- The trouble with the rat race is that even if you win, you're still a rat. - Lily Tomlin -->
 
+<!-- "If only it were all so simple! If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?" ― Aleksandr Solzhenitsyn -->
 ---
 
 <!-- A data-driven personal website

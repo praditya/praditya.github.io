@@ -16,6 +16,7 @@ Project Description
 [Project Report](http://exampleurl.com)
 ---
 
-If everything seems under control, you're just not going fast enough. - Mario Andretti
+<!-- If everything seems under control, you're just not going fast enough. - Mario Andretti -->
+Coming together is the beginning. Keeping together is progress. Working together is success. - Henry Ford
 
 ---

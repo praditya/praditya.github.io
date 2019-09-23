@@ -1,5 +1,5 @@
 ---
-title: 'Pusrsuit Evasion Games'
+title: 'Pursuit Evasion Games'
 collection: projects
 permalink: /projects/PEG/
 ---
