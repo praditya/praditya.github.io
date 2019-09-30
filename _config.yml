@@ -191,25 +191,6 @@ collections:
 
 # Defaults
 defaults:
-  # Photography
-  - scope:
-      path: "photography"
-      type: "photograpny"
-    values:
-      layout: single
-      author_profile: false
-      gallery: true
-      comments: false
-      share: false
-      related: true
-      sidenav-gallery: true
-      adds: true
-      cookies: true
-      breadcrumb: true
-      breadcrumbs:
-        - label: "photography"
-          url: /photography/
-      permalink: /:path/:basename:output_ext
   # _posts
   - scope:
       path: ""
