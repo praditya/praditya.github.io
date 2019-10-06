@@ -1,4 +1,4 @@
-<div>
+<!-- <div>
   	<div class="home-title">
     	<h3>Recent Posts</h3>
   	</div>
@@ -15,4 +15,22 @@
 		</ul>
 	</div>
 	<p style="text-align: center"><a href="{{ site.url }}/posts-page">See All Posts</a></p>
+</div> -->
+
+
+<div>
+	<div class="flexslider flex-design">
+		<ul class="slides">
+	  		{% for page in site.categories.hobby %}
+	  		<li data-thumb="{{ page.image-slider }}">
+	  			<a href="{{ site.url}}{{ page.permalink }}">
+		    		<img src="{{ page.image-slider }}">
+		    		<hr>
+		    		<p class="flex-caption-title">{{ page.title }}</p>
+		    		<p class="flex-caption">{{ page.excerpt }}</p>
+		    	</a>
+	 		</li>
+	  		{% endfor %}
+		</ul>
+	</div>
 </div>
