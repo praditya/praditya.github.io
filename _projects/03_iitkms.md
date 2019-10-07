@@ -12,7 +12,7 @@ This project was done as a member of SAE Club, IIT Kanpur under Dr. Santanu De, 
 
 Project Description
 ---
-
+The work was focused on design, simulation, manufacturing and testing of a spaceframe chassis for a formula prototype vehicle.
 [Project Report](http://exampleurl.com)
 ---
 

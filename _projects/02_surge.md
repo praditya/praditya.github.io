@@ -12,6 +12,8 @@ This project work was done under the guidance of [Dr. P. Venkitanarayanan](http:
 Project Description
 ---
 
+The project aims at characterizing delamination of glass fiber laminates when subjected to impact loading. Various laminates were prepared with different orientation, and were tested in Hopkinson Bar setup. The delamination was recorded using high speed camera, which were analysed using Digital Image Correlation technique.
+
 [Project Report](http://exampleurl.com)
 ---
 
