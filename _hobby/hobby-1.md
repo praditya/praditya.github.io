@@ -6,6 +6,15 @@ permalink: /hobby1
 
 <!-- image: /images/hobby-images/slider-images/c.jpg -->
 image-slider: /images/hobby-images/slider-images/c.jpg
+
+sliderData:
+- image: "/images/hobby-images/slider-images/c.jpg"
+  caption: "Golden Time"
+- image: "/images/hobby-images/slider-images/moorie.jpg"
+  caption: "Tuesdays with Moorie"
+- image: /images/hobby-images/slider-images/control.jpg
+  caption: Control is an illusion
+  
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
