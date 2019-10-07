@@ -18,7 +18,7 @@
 </div> -->
 
 
-<div>
+<!-- <div>
 	<div class="flexslider flex-design">
 		<ul class="slides">
 	  		{% for page in site.hobby %}
@@ -28,6 +28,21 @@
 		    		<hr>
 		    		<p class="flex-caption-title">{{ page.title }}</p>
 		    		<p class="flex-caption">{{ page.excerpt }}</p>
+		    	</a>
+	 		</li>
+	  		{% endfor %}
+		</ul>
+	</div>
+</div> -->
+
+<div>
+	<div class="flexslider">
+		<ul class="slides">
+	  		{% for item in page.sliderData %}
+	  		<li data-thumb="{{ item.image }}">
+	  			<a href="{{ site.url}}{{ item.image }}">
+		    		<img src="{{ item.image }}">
+		    		<p class="flex-caption">{{ item.caption }}</p>
 		    	</a>
 	 		</li>
 	  		{% endfor %}
