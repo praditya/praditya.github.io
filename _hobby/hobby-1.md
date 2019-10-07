@@ -1,10 +1,10 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1"
 collection: hobby
 permalink: /hobby1
 
-image: /images/hobby-images/slider-images/c.jpg
+<!-- image: /images/hobby-images/slider-images/c.jpg -->
 image-slider: /images/hobby-images/slider-images/c.jpg
 ---
 
