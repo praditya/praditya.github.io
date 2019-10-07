@@ -278,3 +278,10 @@ html[xmlns] .flexslider .slides {
     right: 10px;
   }
 }
+
+.flexslider .slides img {
+    max-height: 200px; /*maximum height for all slides*/
+    width: auto; /*proper aspect ratio of images*/
+    max-width: 200px; /*maximum width for all slides*/
+    margin: 0 auto; /*centering images in the container*/
+}
