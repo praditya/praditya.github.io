@@ -18,9 +18,9 @@ sliderData:
   caption: Framed  
 
 ---
+{% include hobby-flexslider.html %}
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
-{% include hobby-flexslider.html %}
 
 ---
 <!-- Your first 1,000 photographs are your worst. -Henri Cartier-Bressom -->
