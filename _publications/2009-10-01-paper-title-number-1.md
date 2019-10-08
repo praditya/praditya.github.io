@@ -1,18 +1,17 @@
 ---
-title: "Paper 1"
+title: "Inverse Geometric Guidance Strategy for a Three Body Differential Game"
 collection: publications
-permalink: /publication/2019-10-01-paper-title-1
-excerpt: 'Coming Soon'
+permalink: /publication/2019-10-01-PEG
+excerpt: 'Under Review'
 date: 2019-10-01
 venue: 'Conference'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title 1.&quot; <i>Conference </i>. 1(1).'
+citation: 'Saswat Priyadarshi Nayak, Aditya Pratap Singh Rajawat, Mangal Kothari* (2020). &quot;Inverse Geometric Guidance Strategy for a Three Body Differential Game.&quot; <i>American Control Conference 2020 </i>. 1(1).'
 ---
-Coming Soon... Under Progress!
-
+Paper Under Review
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title 1." <i>Conference</i>. 1(1).
+<!-- Recommended citation: Your Name, You. (2009). "Paper Title 1." <i>Conference</i>. 1(1). -->
 ---
 
 The road to success is always under construction. -Lily Tomlin

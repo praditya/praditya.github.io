@@ -14,6 +14,7 @@ This project work was done under the guidance of [Dr. Srikanth Saripalli](https:
 
 Project Description
 ---
+The objective was to design longitudinal and lateral control for a 18 wheel truck through design of experiments and using system identification methods. A second-order transfer function model was obtained at various speed ranges through input-output modeling which was validated through additional experiments. A PID throttle control and Stanley control for steering was implemented and later tested in real-time, for fine-tuning the control gains.
 
 [Project Report](http://exampleurl.com)
 ---

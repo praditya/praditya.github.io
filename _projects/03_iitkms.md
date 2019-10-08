@@ -12,7 +12,8 @@ This project was done as a member of SAE Club, IIT Kanpur under Dr. Santanu De, 
 
 Project Description
 ---
-The work was focused on design, simulation, manufacturing and testing of a spaceframe chassis for a formula prototype vehicle.
+The work was focused on design, simulation, manufacturing and testing of a spaceframe chassis for a formula prototype vehicle. A preliminary design was made considering FSAE rulebook and design goals, which was adapted for driver ergonomics using a PVC model of the chassis. The CAD model was tested for various load analysis before freezing the design. A set of experiments were performed on previous season models for the validation of simulation results. The design was then brought into shape using planned manufacturing processes.
+     
 [Project Report](http://exampleurl.com)
 ---
 
