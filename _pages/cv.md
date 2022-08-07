@@ -12,10 +12,10 @@ redirect_from:
 
 <iframe src="/files/Aditya_Rajawat-Resume.pdf" width="100%" height="700"></iframe>
 
-### [Download Resume from here!](https://drive.google.com/file/d/15ZJQfbW7YlmImAbfwiqda0DE1VxZ3aBo/view)
 ---
 
 <!-- Education
+### [Download Resume from here!](https://drive.google.com/file/d/15ZJQfbW7YlmImAbfwiqda0DE1VxZ3aBo/view)
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
