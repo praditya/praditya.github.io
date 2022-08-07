@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ---
 
-<iframe src="/files/Aditya_CV.pdf" width="100%" height="700"></iframe>
+<iframe src="/files/Aditya_Rajawat-Resume.pdf" width="100%" height="700"></iframe>
 
 ### [Download Resume from here!](https://drive.google.com/file/d/15ZJQfbW7YlmImAbfwiqda0DE1VxZ3aBo/view)
 ---

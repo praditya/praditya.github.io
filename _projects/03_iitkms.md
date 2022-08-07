@@ -7,7 +7,7 @@ permalink: /projects/iitkms/
 This project was done as a member of SAE Club, IIT Kanpur under Dr. Santanu De, Mechanical Engineering.
 
 
-![F18 IITKMS](/images/f18.jpg)
+![F18 IITKMS](/images/my-car.jpg)
 *Formula Student vehicle that participated in Formula Bharat 2018*
 
 Project Description
