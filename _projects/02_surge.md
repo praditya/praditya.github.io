@@ -19,6 +19,6 @@ The project was aimed at characterizing delamination of glass fiber laminates wh
 
 ---
 
-Chop your own wood and it will warm you twice. - Henry Ford
+Chop your own wood and it will warm you twice - Henry Ford
 
 ---

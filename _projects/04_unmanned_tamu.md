@@ -7,7 +7,7 @@ venue: "Texas A&M University, Mechanical Engineering"
 date: 2018-08-01
 ---
 
-This project work was done under the guidance of [Dr. Srikanth Saripalli](https://engineering.tamu.edu/mechanical/profiles/saripalli.html) in [Unmanned Systems Lab](https://unmanned.tamu.edu/), Mechanical Engineering, Texas A&M University. It was under TAMU-IITK Exchange Program for Summer'18 (Halliburton Engineering Global Programs Scholarship).
+This project work was done under the guidance of [Prof. Srikanth Saripalli](https://engineering.tamu.edu/mechanical/profiles/saripalli.html) in [Unmanned Systems Lab](https://unmanned.tamu.edu/), Mechanical Engineering, Texas A&M University. It was under TAMU-IITK Exchange Program for Summer'18 (Halliburton Engineering Global Programs Scholarship).
 
 
 ![Truck_18](/images/truck_AS.jpg)
@@ -22,6 +22,6 @@ The objective was to design longitudinal and lateral control for a 18 wheel truc
 ---
 
 
-Study hard what interests you the most in the most undisciplined, irreverent and original manner possible. -Richard Feynman
+Study hard what interests you the most in the most undisciplined, irreverent and original manner possible - Richard Feynman
 
 ---
