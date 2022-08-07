@@ -4,6 +4,7 @@ collection: projects
 type: "Unmanned Systems Lab"
 permalink: /projects/unmanned_tamu/
 venue: "Texas A&M University, Mechanical Engineering"
+date: 2018-08-01
 ---
 
 This project work was done under the guidance of [Dr. Srikanth Saripalli](https://engineering.tamu.edu/mechanical/profiles/saripalli.html) in [Unmanned Systems Lab](https://unmanned.tamu.edu/), Mechanical Engineering, Texas A&M University. It was under TAMU-IITK Exchange Program for Summer'18 (Halliburton Engineering Global Programs Scholarship).

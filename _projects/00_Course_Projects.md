@@ -2,6 +2,7 @@
 title: 'Course Projects'
 collection: projects
 permalink: /projects/course_projects/
+date: 2019-01-01
 ---
 
 This section includes all major projects done in Graduate level courses.
