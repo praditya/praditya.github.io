@@ -16,23 +16,17 @@ I paused. It wasn’t because I didn’t want to answer, but because I didn’t 
 
 I eventually replied, “It’s like riding a wave.” And that’s when the image started to take shape in my mind.
 
----
-
 ## The Gentle Undulations of Employment
 
 Back in my previous job, life was steady. Sure, there were deadlines and occasional stress, but the emotional extremes were contained. Wins were satisfying but never electrifying. Setbacks were manageable, seldom leaving a lasting impact.
 
 It was a comfortable existence—a life lived on a small sine wave. The highs and lows stayed close to a neutral baseline, offering predictability and security.
 
----
-
 ## Founding a Startup: A New Amplitude
 
 When I became a founder, everything changed. The sine wave grew taller and deeper. Successes weren’t just good; they were euphoric. Failures weren’t just setbacks; they were gut-wrenching. The stakes weren’t just professional—they were personal.
 
 The journey of a founder isn’t for the faint of heart. The highs are breathtaking, but the lows can leave you questioning your path.
-
----
 
 ### Peaks That Take Your Breath Away
 
@@ -44,7 +38,6 @@ When things go right as a founder, they *really* go right:
 
 These highs make you feel unstoppable, like you’re standing on top of the world.
 
----
 
 ### Troughs That Test Your Resolve
 
@@ -56,8 +49,6 @@ But then there are the lows—and they’re not for the faint of heart:
 
 These lows are isolating, casting long shadows over even the brightest victories.
 
----
-
 ## Why a Sine Wave?
 
 As I sat reflecting on that wave metaphor, I realized the founder’s journey is the perfect sine wave:
@@ -67,8 +58,6 @@ As I sat reflecting on that wave metaphor, I realized the founder’s journey is
 - **Amplitude:** The emotional intensity that sets the founder apart from a steady career.
 
 For founders, the peaks are higher, and the troughs are deeper than for most others. But it’s the magnitude of this wave that makes it worthwhile.
-
----
 
 ## Riding the Wave
 
