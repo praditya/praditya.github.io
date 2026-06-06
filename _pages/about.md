@@ -10,7 +10,7 @@ redirect_from:
 
 Hello World!
 
-I'm the founder of **xTerra Robotics**, where we're building legged robotics. I love to build, tinker, and treat every problem as an experiment to run — an engineer's eye on the mechanism, and a curiosity about the people and the psychology around it. *Love the Doing.*
+I'm the cofounder of **xTerra Robotics**, where we're building autonomous legged robots for the toughest of terrains.
 
 Previously, I was a Motion Control Software Engineer on the Automated Driving Motion Controls team at Jaguar Land Rover, contributing towards the future of vehicle autonomy by delivering motion services for a safe and comfortable journey.
 
