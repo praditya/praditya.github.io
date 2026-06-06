@@ -10,7 +10,11 @@ redirect_from:
 
 Hello World!
 
-I'm a Motion Control Software Engineer working with Automated Driving Motion Controls Team in Jaguar Land Rover, contributing towards the exciting future of vehicle autonomy while ensuring brand's DNA by delivering motion services for a safe and comfortable journey.
+I'm the founder of **xTerra Robotics**, where we're building legged robotics. I love to build, tinker, and treat every problem as an experiment to run — an engineer's eye on the mechanism, and a curiosity about the people and the psychology around it. *Love the Doing.*
+
+Previously, I was a Motion Control Software Engineer on the Automated Driving Motion Controls team at Jaguar Land Rover, contributing towards the future of vehicle autonomy by delivering motion services for a safe and comfortable journey.
+
+I also write essays at [Substack](https://apsr.substack.com) — on agency, building, and the founder's journey, through a mix of engineering and psychology. A few of them are collected under [Blog Posts](https://praditya.github.io/year-archive/).
 
 I received my Bachelors and Masters degree in Mechanical Engineering, specializing in Robotics and Control, from Indian Institute of Technology Kanpur. My research interests are in the field of Robotics, Dynamics, Vibration and Control. I like working on mathematical modeling and simulation, which intrigues me to visualize every new problem through governing equations and enjoy the mathematics behind it.
 

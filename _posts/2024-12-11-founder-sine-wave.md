@@ -1,12 +1,16 @@
 ---
-title: 'The Founder Sine Wave: A Journey of Highs and Lows'
+title: "The Founder's Sine Wave: A Journey of Highs and Lows"
 date: 2024-12-11
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2024/12/founder-sine-wave/
+canonical_url: "https://apsr.substack.com/p/the-founders-sine-wave"
+excerpt: "A mathematical metaphor for the emotional amplitude of founding a startup."
 tags:
-  - cool posts
-  - category1
-  - category2
+  - founder
+  - psychology
+  - startups
 ---
+
+*Also published on [Substack](https://apsr.substack.com/p/the-founders-sine-wave).*
 
 ## "How’s It Going?"
 
